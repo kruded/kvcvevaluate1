@@ -66180,7 +66180,7 @@ angular.module('mm.addons.mod_wiki')
 angular.module('mm.core')
 
 .constant('mmCoreConfigConstants', {
-    "app_id" : "com.moodle.moodlemobile",
+    "app_id" : "kvc.moodle.moodlemobile",
     "appname": "KVC Moodle Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode" : "2020",
