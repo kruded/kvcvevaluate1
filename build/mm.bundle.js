@@ -66183,7 +66183,7 @@ angular.module('mm.core')
     "app_id" : "kvc.moodle.moodlemobile",
     "appname": "KVC Moodle Mobile",
     "desktopappname": "Moodle Desktop",
-    "versioncode" : "2020",
+    "versioncode" : "2856748",
     "versionname" : "3.3.2",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
