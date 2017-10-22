@@ -3,7 +3,7 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "kvc.moodle.moodlemobile"
-        versionCode = "2856748"
+        versionCode = "20171022"
         version   = "1.0.0">
     <name>KVC Moodle Mobile</name>
 
