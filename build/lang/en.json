@@ -1474,7 +1474,7 @@
     "mma.notes.warningnotenotsent": "Couldn't add note(s) to course {{course}}. {{error}}",
     "mma.notifications.errorgetnotifications": "Error getting notifications",
     "mma.notifications.notificationpreferences": "Notification preferences",
-    "mma.notifications.notifications": "Notifications",
+    "mma.notifications.notifications": "การแจ้งเตือน",
     "mma.notifications.playsound": "Play sound",
     "mma.notifications.therearentnotificationsyet": "There are no notifications",
     "mma.participants.noparticipants": "No participants found for this course",
