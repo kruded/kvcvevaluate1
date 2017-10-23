@@ -1,8 +1,8 @@
 {
-    "app_id" : "kvc.moodle.moodlemobile",
-    "appname": "KVC Moodle Mobile",
+    "app_id" : "eva.kvc.moodle.moodlemobile",
+    "appname": "EVA KVC Moodle Mobile",
     "desktopappname": "Moodle Desktop",
-    "versioncode" : "20171022",
+    "versioncode" : "20171023",
     "versionname" : "1.0.0",
     "cache_expiration_time" : 300000,
     "default_lang" : "en",
@@ -12,7 +12,7 @@
     "demo_sites": {},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://202.29.238.158/lms",
+    "siteurl": "http://61.91.109.46/eva2",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
     "privacypolicy": "https://moodle.org/mod/page/view.php?id=8148"
