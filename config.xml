@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "kvc.moodle.moodlemobile"
-        versionCode = "20171022"
+        id        = "eva.moodle.moodlemobile"
+        versionCode = "20171023"
         version   = "1.0.0">
-    <name>KVC Moodle Mobile</name>
+    <name>EVA KVC Moodle Mobile</name>
 
     <description>
-        KVC Moodle Mobile official app
+        EVA KVC Moodle Mobile official app
     </description>
 
-    <author href="http://202.29.238.158/lms" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://202.29.238.158/lms" email="kruded@kvc.ac.th">
+        EVA LMS Moodle Mobile team
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
